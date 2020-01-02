@@ -6,7 +6,7 @@
 
 ![alt tag](https://github.com/eggeggss/HybridWebViewRender/blob/master/Android.jpg)
 
-<h3>2.Custom Render for WebView</h3>
+<h3>2.Custom Render the WebView</h3>
 
 ![alt tag](https://github.com/eggeggss/HybridWebViewRender/blob/master/AndroidWebview.png)
 
@@ -20,7 +20,7 @@
 ![alt tag](https://github.com/eggeggss/HybridWebViewRender/blob/master/iOS.jpg)
 
 
-<h3>2.Custom Render for WebView</h3>
+<h3>2.Custom Render the WebView</h3>
 
 
 ![alt tag](https://github.com/eggeggss/HybridWebViewRender/blob/master/iOSWKWebview.png)
