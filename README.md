@@ -26,6 +26,6 @@
 ![alt tag](https://github.com/eggeggss/HybridWebViewRender/blob/master/iOSWKWebview.png)
 
 
-收到ErrorCode再發EventAggregator 或 MessagingCenter 觸發上層Root Page再轉到Error Page
+收到ErrorCode再發EventAggregator 或 MessagingCenter 觸發上層Root Page再轉發Error Page
 
 參考來源 : https://docs.microsoft.com/zh-tw/xamarin/xamarin-forms/app-fundamentals/custom-renderer/hybridwebview
