@@ -1,5 +1,6 @@
-<hr><h3>Android 部分</h3><hr>
-
+<hr>
+  <h3>Android 部分</h3>
+<hr>
 <h3>1.繼承  webview and override OnReceiveError method </h3>
 
 ![alt tag](https://github.com/eggeggss/HybridWebViewRender/blob/master/Android.jpg)
